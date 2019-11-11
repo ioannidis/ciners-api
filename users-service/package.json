@@ -1,0 +1,19 @@
+{
+  "name": "ciners-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.5.1",
+    "helmet": "^3.21.0",
+    "mongoose": "^5.6.13",
+    "passport-jwt": "^4.0.0"
+  }
+}
